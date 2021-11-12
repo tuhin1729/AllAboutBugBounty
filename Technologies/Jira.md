@@ -63,3 +63,4 @@ https://<JIRA_URL>/secure/ConfigurePortalPages!default.jspa?view=search&searchOw
 
 Reference:
 - https://twitter.com/harshbothra
+- https://twitter.com/tuhin1729_/status/1445281144518307840
